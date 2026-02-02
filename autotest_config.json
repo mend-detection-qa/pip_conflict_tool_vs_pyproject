@@ -92,8 +92,8 @@
                     "value": "Trying version getter: ToolVersions"
                 },
                 {
-                    "operator": "regex",
-                    "value": "Found Python version \\(3\\.9\\.7\\) for Pip project at \"/.*pip_conflict_tool_vs_pyproject.*\""
+                   "operator": "regex",
+                  "value": "Found Python version \\(3\\.9\\.7\\) for Pip project at.*pip_conflict_tool_vs_pyproject"
                 },
                 {
                     "operator": "eq",
